@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/com/timbo/db/mysqlop.py=utf-8
+encoding//src/com/timbo/db/shelvedb.py=utf-8
+encoding//src/com/timbo/db/sqlite3op.py=utf-8
+encoding//src/com/timbo/gui/qt.py=utf-8
+encoding//src/com/timbo/gui/tkinter.py=utf-8
+encoding//src/com/timbo/gui/wx1.py=utf-8
